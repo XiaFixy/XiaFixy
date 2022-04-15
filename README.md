@@ -1,4 +1,9 @@
 ### Hello There!
+![Chongyun](https://github.com/Fixy48/Fixy48/blob/main/2d6031fd-bcbd-43c2-8070-38e074087739.jpeg)
+**My name is Fixy** *and i'm 
+
+<!-- ### Contacts
+![](https://img.shields.io/badge/-Fixy48-%23181717?style=flat-square&logo=github) -->
 
 ### Github Stats
 
