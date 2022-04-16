@@ -1,6 +1,6 @@
 # Hello There!
 ![Chongyun](https://github.com/Fixy48/Fixy48/blob/main/2d6031fd-bcbd-43c2-8070-38e074087739.jpeg)
-My name is fixy and i'm someone who likes anime and games.
+My name is fixy, someone who likes anime and games.
 You can find me in ..
 
 <!-- ## Contacts
