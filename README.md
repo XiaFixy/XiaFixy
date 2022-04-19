@@ -4,16 +4,11 @@ My name is fixy, someone who likes anime and games.
 You can find me in ..
 
 ### Contacts 📫
-<p align="center">
-  <a href="https://instagram.com/unfamed.fixy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6287824053927"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    <br>
-  <a href="https://github.com/riychdwayne"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
-    <br>
-</p>
-
-### Spotify Playing 🎧
-![https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D](https://now-playing-on-spotify.vercel.app/api/spotify)
+<div align="center">
+  <a href="https://instagram.com/unfamed.fixy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/6287824053927"<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a hhttps://github.com/riychdwayne](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+</div>
 
 ### Github Stats 📈
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Fixy48&theme=radical&layout=compact)
