@@ -8,8 +8,8 @@ You can find me in ..
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Fixy48&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-![](https://github-readme-stats.vercel.app/api/pin/?username=Fixy48&repo=Clara-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![](https://github-readme-stats.vercel.app/api?username=XiaFixy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![](https://github-readme-stats.vercel.app/api/pin/?username=XiaFixy&repo=Clara-Bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 
-![](https://www.codewars.com/users/Fixy48/badges/large)
+![](https://www.codewars.com/users/XiaFixy/badges/large)
